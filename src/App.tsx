@@ -26,7 +26,7 @@ function App() {
         <NavBar />
       </GridItem>
 
-      <GridItem hideBelow="lg" area="aside" bg="bg.subtle" p={4}>
+      <GridItem hideBelow="lg" area="aside" paddingX={5}>
         <GenreList/>
       </GridItem>
 
