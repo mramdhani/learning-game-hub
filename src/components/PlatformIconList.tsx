@@ -7,11 +7,7 @@ import {
   FaAndroid,
 } from "react-icons/fa";
 import { MdPhoneIphone } from "react-icons/md";
-import {
-  BsNintendoSwitch,
-  BsGlobe,
-  BsQuestionCircle,
-} from "react-icons/bs";
+import { BsNintendoSwitch, BsGlobe, BsQuestionCircle } from "react-icons/bs";
 import { SiAtari, SiCommodore, SiSega } from "react-icons/si";
 import type { Platform } from "@/hooks/useGames";
 import { HStack, Icon } from "@chakra-ui/react";
