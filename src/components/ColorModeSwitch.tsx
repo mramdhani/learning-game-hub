@@ -28,7 +28,7 @@ const ColorModeSwitch = () => {
         </Switch.Control>
       </Switch.Root>
 
-      <Text>Dark Mode: {resolvedTheme}</Text>
+      <Text whiteSpace="nowrap">Dark Mode</Text>
     </HStack>
   );
 };
